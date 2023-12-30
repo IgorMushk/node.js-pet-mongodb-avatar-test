@@ -5,5 +5,5 @@
 $ npm run test  
 
 ### Run test (+ Jest Runner) 
-![Screenshoot-2](./assets/screen1.jpg)
-![Screenshoot-3](./assets/screen2.jpg)
+![Screenshoot-1](./assets/screen1.jpg)
+![Screenshoot-2](./assets/screen2.jpg)
