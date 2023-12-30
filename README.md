@@ -1,6 +1,6 @@
 ## node.js-pet-mongodb-avatar-test
 
-### Mod06-2 
+### Mod05-2 
 
 $ npm run test  
 
